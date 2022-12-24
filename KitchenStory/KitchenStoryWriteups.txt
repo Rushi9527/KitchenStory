@@ -1,0 +1,17 @@
+This is about Kitchen Story using Front end
+In this we used Html and  Css
+using HTML language casecading styles.
+#Assests
+food-serving.ping
+food.png
+#Styles
+contact.css
+footer.css
+main.css
+menu.css
+service.css
+And
+contact.html
+index.html
+menu.html
+services.html
